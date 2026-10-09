@@ -1,0 +1,3638 @@
+{
+  "KNS": {
+    "Khối 1": [
+      {
+        "tenBai": "Kỹ năng kết bạn",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng giữ gìn đồ dùng học tập",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Bảo vệ đôi tai",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          5
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh tai nạn thương tích do vật sắc nhọn, té ngã",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tự phục vụ bản thân",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng Nói lời lịch sự",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng giữ an toàn khi ở nhà",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh dị vật đường thở",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng giữ gìn vệ sinh sạch sẽ",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng ứng phó với người lạ",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng chuẩn bị đồ dùng cá nhân khi đi dã ngoại",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng chăm sóc bản thân khi bị ốm",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Tư thế ngồi học đúng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "An toàn khi sử dụng các thiết bị gia dụng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Em học sống xanh - Đi tìm không khí sạch",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng xác định phương hướng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 2": [
+      {
+        "tenBai": "Kỹ năng tự chuẩn bị sách vở đồ dùng học tập đến trường",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng sống gọn gàng, ngăn nắp",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Phát triển kỹ năng ghi nhớ",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          5
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh bệnh dịch, lây nhiễm",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng lắng nghe tích cực",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng nói lời từ chối",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tham gia giao thông an toàn",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng ngừa tai nạn bỏng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tự bảo vệ sức khỏe thể chất",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng ứng phó khi bị bắt nạt",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng đảm bảo an toàn nơi đông người",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "An toàn khi ở trường",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng học tập hiệu quả",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng bày tỏ ý kiến",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Em học sống xanh - Kỹ năng bỏ rác đúng nơi quy định",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Quý trọng lương thực",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 3": [
+      {
+        "tenBai": "Kỹ năng quản lý cảm xúc",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tự tin thể hiện bản thân",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng bảo vệ đôi mắt",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          5
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh tai nạn thương tích do động vật, côn trùng cắn đốt",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Tôn trọng sự khác biệt",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng quản lý thời gian",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng giúp đỡ bố mẹ làm việc nhà",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng ngừa bệnh sốt xuất huyết",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng an toàn khi sử dụng điện",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng đọc sách hiệu quả",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng an toàn khi tham gia các hoạt động mạo hiểm",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "An toàn khi ở chung cư",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng an toàn khi ngồi trên xe máy, xe ô tô",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Giá trị lòng trung thực",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Em học sống xanh - Tiết kiệm nước",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng giao tiếp qua điện thoại",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 4": [
+      {
+        "tenBai": "Kỹ năng ra quyết định thông minh",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng giải quyết mâu thuẫn với bạn bè",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng đặt câu hỏi",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          5
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh xâm hại tình dục",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh nghiện tivi, điện thoại, trò chơi điện tử",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng quản lý tiền bạc",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Những phẩm chất của em",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh các bệnh về da",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh cháy nổ và thoát hiểm khi có hỏa hoạn",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Gia đình yêu thương",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng giữ an toàn khi đi leo núi",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng chăm sóc bản thân tuổi dậy thì",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng thích nghi",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng chuẩn bị quà và tặng quà",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Em học sống xanh - Bảo vệ môi trường biển",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng thương lượng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 5": [
+      {
+        "tenBai": "Kỹ năng hợp tác",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tìm kiếm và xử lý thông tin",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng du lịch dã ngoại",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          5
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh và ứng phó khi gặp thiên tai",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng diễn thuyết",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng vượt qua căng thẳng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng phòng tránh đuối nước",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng sử dụng hóa chất an toàn",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng xác định mục tiêu",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tổ chức sự kiện gia đình",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng sơ cứu cơ bản (chảy máu cam, bong gân)",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "Vượt qua khủng hoảng tuổi dậy thì",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Tập trung để học tốt",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Thực hành kỹ năng làm việc nhóm",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng sử dụng ngôn ngữ không lời",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Em học sống xanh - Tiết kiệm điện năng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tổ chức sự kiện ở trường lớp",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  "STEM": {
+    "Khối 1": [
+      {
+        "tenBai": "Dụng cụ xác định hướng gió",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "tenBai": "Chậu cây tự tưới",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Mô hình đèn tín hiệu giao thông",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "tenBai": "Mô hình chiếc cầu chịu sức nặng",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Hoa yêu thương nở rộ",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Hệ thống thăng bằng",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "tenBai": "Sắc màu kỳ diệu",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Cốc xoay Toán học",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "tenBai": "Chiếc ô tô bằng vỏ chai nhựa",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Thước tách gộp",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Công viên nổi",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Đồng hồ 12 giờ",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 2": [
+      {
+        "tenBai": "Kính xem phim 3D",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "tenBai": "Thuyền chạy bằng dây thun",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Dụng cụ cấp nước tự động cho gà",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "tenBai": "Mô hình nhà chống lũ",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Lịch để bàn",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Mô hình thời tiết",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "tenBai": "Mô hình cân thăng bằng",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Bong bóng xà phòng",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "tenBai": "Tàu hỏa",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Hộp bút đa năng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Bàn tay Robot",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Sổ tay gia đình yêu thương",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 3": [
+      {
+        "tenBai": "Mô hình máy bay trực thăng",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "tenBai": "Mô hình đu quay",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Kính vạn hoa",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "tenBai": "Quạt gió không có động cơ và pin",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Bảng nhân xoay",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Cánh diều",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "tenBai": "Thí nghiệm vui cùng nước",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Đồng hồ",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "tenBai": "Mô hình hệ mặt trời",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Lớp học xanh từ vật liệu tái chế",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Mô hình các cơ quan trong cơ thể người",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "La bàn đơn giản",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 4": [
+      {
+        "tenBai": "Chong chóng quay bằng nhiệt",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "tenBai": "Vòng xoay cơ học",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Thiết bị tăng âm cho điện thoại",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "tenBai": "Kèn cổ vũ",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Bình giữ nhiệt thông minh",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Mô hình bãi đỗ xe",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "tenBai": "Vùng nước kỳ bí",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Kiến trúc sư tài ba",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "tenBai": "Bẫy chuột",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Rạp chiếu bóng mini",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Hình tứ giác biến hóa",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Chuỗi thức ăn trong tự nhiên",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 5": [
+      {
+        "tenBai": "Nước rửa tay khô diệt khuẩn",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "tenBai": "Chiếc đàn T'rưng tự chế",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Sản phẩm từ mạch điện đơn giản",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "tenBai": "Chiếc máy hút bụi đơn giản",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKI",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Bươm bướm sắc màu",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Dụng cụ đo nhịp tim",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "tenBai": "Mô hình núi lửa phun trào",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          20,
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Mô hình nhà máy thủy điện",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          23,
+          24,
+          25
+        ]
+      },
+      {
+        "tenBai": "Hệ thống điện gió",
+        "soTiet": 3,
+        "tiet": 3,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2",
+          "Tiết 3"
+        ],
+        "tietPPCT": [
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá HKII",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Tangram 3D",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Tên lửa giấy",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Xe buồm",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ]
+  },
+  "CDS": {
+    "Khối 1": [
+      {
+        "tenBai": "Sử dụng máy tính",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Thiết bị mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Khám phá về mạng Internet",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Sử dụng bàn phím",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Sử dụng chuột",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Vẽ tranh bằng công cụ vẽ tự động",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Giao tiếp thông qua thiết bị số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Chăm sóc sức khỏe tinh thần trong thời đại số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Chăm sóc mắt thời đại số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Tôn trọng mọi người khi sử dụng mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Biểu tượng thực - ảo",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "An toàn khi sử dụng mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Học tập trên môi trường mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Làm quen với Tư duy lập trình",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Tìm hiểu Trí tuệ nhân tạo AI",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Tư duy lập trình - Di chuyển",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 2": [
+      {
+        "tenBai": "Sử dụng thiết bị số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Khám phá các ứng dụng, phần mềm",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Thành viên cộng đồng mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Dấu vết trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Bảo vệ thông tin riêng tư",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Sáng tạo biểu tượng cảm xúc",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Học tập trên Internet",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Học nhóm hiệu quả trên không gian mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Sức khỏe đôi tai trong thời đại số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Lan tỏa điều tích cực trên không gian mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Cách ứng phó khi bị trêu chọc bắt nạt",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "Thời gian sử dụng các thiết bị công nghệ",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Bảo vệ cột sống",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Vẽ kỹ thuật số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "An toàn khi xem phim ảnh trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Lập trình cho Robot",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 3": [
+      {
+        "tenBai": "Khám phá dữ liệu số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Những thông tin đáng tin cậy trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Xây dựng cộng đồng mạng an toàn",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Xây dựng hình ảnh cá nhân trên không gian mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Trách nhiệm của công dân số với bản thân và cộng đồng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Vẽ nhân vật và tạo ra ảnh động",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Giải trí văn minh cùng thiết bị số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Địa chỉ số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Thông tin trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Sức mạnh của ngôn từ",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Sức mạnh của mật khẩu",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "Tạo bài trình chiếu",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Tư duy lập trình",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Xem tin tức trên Internet",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Tư duy lập trình - Vòng lặp",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Tư duy lập trình - Ong làm mật rẽ nhánh",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 4": [
+      {
+        "tenBai": "Sức hút của thiết bị số với con người",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Quản lý thời gian hiệu quả bằng thiết bị số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Tìm hiểu lịch sử, văn hóa trên internet",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Lịch sử hoạt động trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Những thông tin có thể chia sẻ trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Dịch thuật cùng trí tuệ nhân tạo",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Phòng tránh và ứng phó lừa đảo trên không gian mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Bảo vệ dữ liệu cá nhân",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Hành động an toàn khi sử dụng mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Cách xử lí khi chứng kiến hành vi trêu chọc, bắt nạt trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Chơi trò chơi trực tuyến an toàn và lành mạnh",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng trình bày văn bản và hình ảnh sáng tạo",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Ứng xử trong phòng máy tính",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Vẽ sơ đồ tư duy",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Quyền và trách nhiệm của công dân trên nền tảng số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Điều khiển rô-bốt di chuyển",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ],
+    "Khối 5": [
+      {
+        "tenBai": "Phương tiện truyền thông số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          1,
+          2
+        ]
+      },
+      {
+        "tenBai": "Lập kế hoạch bằng thiết bị số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          3,
+          4
+        ]
+      },
+      {
+        "tenBai": "Em là công dân số",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          5,
+          6
+        ]
+      },
+      {
+        "tenBai": "Phòng chống bắt nạt trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          7,
+          8
+        ]
+      },
+      {
+        "tenBai": "Kỹ năng tìm kiếm và xử lý thông tin trên Internet",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          9,
+          10
+        ]
+      },
+      {
+        "tenBai": "Làm quen với mật khẩu hình vẽ",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          11,
+          12
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          13
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          14
+        ]
+      },
+      {
+        "tenBai": "Tìm hiểu về robot",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          15,
+          16
+        ]
+      },
+      {
+        "tenBai": "Sử dụng thiết bị công nghệ hợp lý, an toàn",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          17,
+          18
+        ]
+      },
+      {
+        "tenBai": "Mua sắm an toàn trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          19,
+          20
+        ]
+      },
+      {
+        "tenBai": "Tình bạn trên mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          21,
+          22
+        ]
+      },
+      {
+        "tenBai": "Những điểm có thể và những điểm cần tránh khi truy cập mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          23,
+          24
+        ]
+      },
+      {
+        "tenBai": "Những quan niệm sai lầm khi tham gia mạng",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          25,
+          26
+        ]
+      },
+      {
+        "tenBai": "Trang thông tin điện tử và báo điện tử",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          27,
+          28
+        ]
+      },
+      {
+        "tenBai": "Ôn tập",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          29
+        ]
+      },
+      {
+        "tenBai": "Đánh giá",
+        "soTiet": 1,
+        "tiet": 1,
+        "cacTiet": [
+          "Tiết 1"
+        ],
+        "tietPPCT": [
+          30
+        ]
+      },
+      {
+        "tenBai": "Rác thải điện tử và tác hại với con người",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          31,
+          32
+        ]
+      },
+      {
+        "tenBai": "Tư duy lập trình",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          33,
+          34
+        ]
+      },
+      {
+        "tenBai": "Tư duy lập trình - Quạ nhặt sỏi",
+        "soTiet": 2,
+        "tiet": 2,
+        "cacTiet": [
+          "Tiết 1",
+          "Tiết 2"
+        ],
+        "tietPPCT": [
+          35,
+          36
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "tenBieuMau": "Báo giảng điện tử Gaia",
+  "phienBan": "2.0",
+  "moTa": "Cấu trúc các trường input và dropbox của biểu mẫu Google Form báo giảng",
+  "danhSachTruong": [
+    {
+      "id": "maGV",
+      "tenTruong": "Mã giáo viên",
+      "loai": "text",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "moTa": "Nhập mã số giáo viên (Ví dụ: DN093, DN007)",
+      "aliases": [
+        "mã số giáo viên",
+        "mã giáo viên",
+        "mã gv",
+        "ma so giao vien",
+        "ma giao vien",
+        "ma gv"
+      ]
+    },
+    {
+      "id": "hoTen",
+      "tenTruong": "Họ và tên giáo viên",
+      "loai": "text",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "moTa": "Nhập họ và tên giáo viên (Ví dụ: PHẠM ĐÌNH NGUYÊN)",
+      "aliases": [
+        "họ và tên giáo viên",
+        "họ tên giáo viên",
+        "họ và tên",
+        "ho va ten giao vien",
+        "ho ten giao vien",
+        "ho va ten",
+        "tên giáo viên",
+        "ten giao vien"
+      ]
+    },
+    {
+      "id": "ngay",
+      "tenTruong": "Ngày dạy",
+      "loai": "date",
+      "dinhDang": "mm/dd/yyyy",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "moTa": "Ngày thực hiện tiết dạy (Định dạng mm/dd/yyyy hoặc dd/mm/yyyy)",
+      "aliases": [
+        "ngày dạy",
+        "ngay day",
+        "ngày thực hiện",
+        "ngay thuc hien",
+        "ngày"
+      ]
+    },
+    {
+      "id": "thoiGian",
+      "tenTruong": "Thời gian dạy",
+      "loai": "dropbox",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "moTa": "Dropbox chọn buổi và tiết dạy trong ngày",
+      "aliases": [
+        "thời gian dạy",
+        "thoi gian day",
+        "thời gian",
+        "thoi gian",
+        "buổi dạy - tiết dạy",
+        "tiết dạy"
+      ],
+      "cacLuaChon": [
+        "Buổi sáng - Tiết 1",
+        "Buổi sáng - Tiết 2",
+        "Buổi sáng - Tiết 3",
+        "Buổi sáng - Tiết 4",
+        "Buổi sáng - Tiết 5",
+        "Buổi chiều - Tiết 1",
+        "Buổi chiều - Tiết 2",
+        "Buổi chiều - Tiết 3",
+        "Buổi chiều - Tiết 4",
+        "Buổi chiều - Tiết 5"
+      ]
+    },
+    {
+      "id": "phanLoai",
+      "tenTruong": "Phân loại tiết dạy",
+      "loai": "dropbox",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "giaTriMacDinh": "Dạy chính",
+      "moTa": "Dropbox phân loại tiết dạy: Dạy chính, Dạy thay, Dạy bù",
+      "aliases": [
+        "phân loại tiết dạy",
+        "phan loai tiet day",
+        "phân loại",
+        "phan loai",
+        "loại tiết dạy",
+        "loai tiet day"
+      ],
+      "cacLuaChon": [
+        "Dạy chính",
+        "Dạy thay",
+        "Dạy bù"
+      ]
+    },
+    {
+      "id": "ngayBu",
+      "tenTruong": "Ngày dạy bù",
+      "loai": "text",
+      "batBuoc": false,
+      "khongCanDien": true,
+      "moTa": "Ngày dạy bù (Không cần điền nếu là dạy chính)",
+      "aliases": [
+        "ngày dạy bù",
+        "ngay day bu",
+        "ngày bù",
+        "ngay bu",
+        "dạy bù ngày"
+      ]
+    },
+    {
+      "id": "tietBai",
+      "tenTruong": "Tiết bài dạy",
+      "loai": "dropbox",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "moTa": "Dropbox chọn số tiết của bài học (Tiết 1 đến Tiết 6)",
+      "aliases": [
+        "tiết bài dạy",
+        "tiet bai day",
+        "tiết bài",
+        "tiet bai",
+        "tiết của bài dạy",
+        "tiết của bài",
+        "tiết số",
+        "tiết ppct"
+      ],
+      "cacLuaChon": [
+        "Tiết 1",
+        "Tiết 2",
+        "Tiết 3",
+        "Tiết 4",
+        "Tiết 5",
+        "Tiết 6"
+      ]
+    },
+    {
+      "id": "lop",
+      "tenTruong": "Lớp",
+      "loai": "dropbox",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "nguonDuLieu": "Data/school.json",
+      "moTa": "Dropbox danh sách lớp học theo từng trường cụ thể",
+      "aliases": [
+        "tên lớp",
+        "ten lop",
+        "lớp",
+        "lop",
+        "lớp dạy",
+        "lop day",
+        "chọn lớp",
+        "chon lop"
+      ]
+    },
+    {
+      "id": "siSoHienDien",
+      "tenTruong": "Sĩ số hiện diện",
+      "loai": "text",
+      "batBuoc": false,
+      "khongCanDien": true,
+      "moTa": "Sĩ số học sinh hiện diện (Không cần điền)",
+      "aliases": [
+        "sĩ số hiện diện",
+        "si so hien dien",
+        "sĩ số có mặt",
+        "si so co mat",
+        "hiện diện"
+      ]
+    },
+    {
+      "id": "siSoVang",
+      "tenTruong": "Sĩ số vắng mặt",
+      "loai": "text",
+      "batBuoc": false,
+      "khongCanDien": true,
+      "moTa": "Sĩ số học sinh vắng mặt (Không cần điền)",
+      "aliases": [
+        "sĩ số vắng mặt",
+        "si so vang mat",
+        "sĩ số vắng",
+        "si so vang",
+        "vắng mặt",
+        "vang mat"
+      ]
+    },
+    {
+      "id": "thietBi",
+      "tenTruong": "Thiết bị giảng dạy",
+      "loai": "dropbox",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "giaTriMacDinh": "TV + dây HDMI của trường",
+      "moTa": "Dropbox lựa chọn thiết bị sử dụng trong buổi dạy",
+      "aliases": [
+        "thiết bị giảng dạy",
+        "thiet bi giang day",
+        "thiết bị dạy học",
+        "thiet bi day hoc",
+        "thiết bị",
+        "thiet bi"
+      ],
+      "cacLuaChon": [
+        "TV + dây HDMI của trường",
+        "Máy Chiếu của trường",
+        "GV tự mang máy chiếu",
+        "Khác (ghi thêm ở phần ghi chú)"
+      ]
+    },
+    {
+      "id": "giaoCu",
+      "tenTruong": "Giáo cụ",
+      "loai": "dropbox",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "giaTriMacDinh": "Đủ giáo cụ",
+      "moTa": "Dropbox tình trạng giáo cụ phục vụ bài dạy",
+      "aliases": [
+        "giáo cụ",
+        "giao cu",
+        "đồ dùng dạy học",
+        "do dung day hoc"
+      ],
+      "cacLuaChon": [
+        "Đủ giáo cụ",
+        "Thiếu giáo cụ",
+        "Khác (Ghi chú ở mục tiếp theo)"
+      ]
+    },
+    {
+      "id": "ghiChu",
+      "tenTruong": "Ghi chú",
+      "loai": "text",
+      "batBuoc": false,
+      "khongCanDien": false,
+      "moTa": "Ghi chú riêng cho mục giáo cụ hoặc thiết bị",
+      "aliases": [
+        "ghi chú riêng cho mục giáo cụ",
+        "ghi chú",
+        "ghi chu",
+        "ghi chú thêm"
+      ]
+    }
+  ]
+}
