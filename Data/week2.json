@@ -19,7 +19,7 @@
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
-        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
+        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
@@ -28,8 +28,8 @@
         "gioBatDau": "15h35",
         "gioKetThuc": "16h10",
         "mon": "KNS",
-        "lop": "1/10",
-        "ghiChu": "DG Trúc",
+        "lop": "2/1",
+        "ghiChu": "DG  Phương Trang",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
@@ -93,7 +93,7 @@
   {
     "maGV": "GV107",
     "hoTen": "HUỲNH THỊ THANH HƯƠNG",
-    "tongSoTiet": 19,
+    "tongSoTiet": 17,
     "tietDay": [
       {
         "truong": "TH Nguyễn Du - Biên Hoà",
@@ -136,6 +136,20 @@
         "lop": "3.6",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Tam Hòa, CS1 - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "9h30",
+        "gioKetThuc": "10h10",
+        "mon": "CDS",
+        "lop": "3/4",
+        "ghiChu": "Bù tuần KG",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Nguyễn Du - Biên Hoà",
@@ -279,34 +293,6 @@
       },
       {
         "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "8h35",
-        "gioKetThuc": "9h10",
-        "mon": "KNS",
-        "lop": "3/5",
-        "ghiChu": "Bù tuần khai giảng",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS1 - Biên Hoà",
-        "tiet": "Tiết 5",
-        "tietSo": 5,
-        "buoi": "Sáng",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "9h30",
-        "gioKetThuc": "10h10",
-        "mon": "KNS",
-        "lop": "3/4",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
         "buoi": "Chiều",
@@ -346,27 +332,13 @@
         "lop": "3/7",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS1 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "7h55",
-        "gioKetThuc": "8h35",
-        "mon": "CDS",
-        "lop": "5/5",
-        "ghiChu": "Bù tuần KG",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       }
     ]
   },
   {
     "maGV": "DN018",
     "hoTen": "NGUYỄN TRÀ MY",
-    "tongSoTiet": 21,
+    "tongSoTiet": 22,
     "tietDay": [
       {
         "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
@@ -377,9 +349,9 @@
         "ngay": "28/09/2026",
         "gioBatDau": "7h40",
         "gioKetThuc": "8h10",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/2",
-        "ghiChu": "CS Vũ Đồng 18KNS+18STEM",
+        "ghiChu": "CS Đồng\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -391,7 +363,7 @@
         "ngay": "28/09/2026",
         "gioBatDau": "8h10",
         "gioKetThuc": "8h50",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/1",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -405,9 +377,9 @@
         "ngay": "28/09/2026",
         "gioBatDau": "13h00",
         "gioKetThuc": "13h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/1",
-        "ghiChu": "CS Vũ Đồng 18KNS+18STEM",
+        "ghiChu": "CS Đồng\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -419,7 +391,7 @@
         "ngay": "28/09/2026",
         "gioBatDau": "13h40",
         "gioKetThuc": "14h10",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/2",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -433,9 +405,9 @@
         "ngay": "29/09/2026",
         "gioBatDau": "13h00",
         "gioKetThuc": "13h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/13",
-        "ghiChu": "CS Hương Phước 18KNS+18STEM",
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -447,7 +419,7 @@
         "ngay": "29/09/2026",
         "gioBatDau": "13h40",
         "gioKetThuc": "14h10",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/16",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -461,9 +433,9 @@
         "ngay": "29/09/2026",
         "gioBatDau": "14h10",
         "gioKetThuc": "14h50",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/19",
-        "ghiChu": "15h - 15h25 ra chơi",
+        "ghiChu": "15h - 15h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -475,9 +447,23 @@
         "ngay": "29/09/2026",
         "gioBatDau": "15h25",
         "gioKetThuc": "16h00",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/18",
         "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "7h30",
+        "gioKetThuc": "8h10",
+        "mon": "KNS",
+        "lop": "4C2",
+        "ghiChu": "NL  Cẩm Tiên",
         "loaiLich": "Lịch chính"
       },
       {
@@ -489,9 +475,9 @@
         "ngay": "30/09/2026",
         "gioBatDau": "14h20",
         "gioKetThuc": "14h55",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/17",
-        "ghiChu": null,
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -503,13 +489,13 @@
         "ngay": "30/09/2026",
         "gioBatDau": "15h25",
         "gioKetThuc": "16h05",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/12",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
         "tiet": "Tiết 5",
         "tietSo": 5,
         "buoi": "Chiều",
@@ -517,7 +503,7 @@
         "ngay": "30/09/2026",
         "gioBatDau": "16h05",
         "gioKetThuc": "16h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/7",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -533,7 +519,7 @@
         "gioKetThuc": "13h40",
         "mon": "18KNS+18STEM",
         "lop": "2/6",
-        "ghiChu": "Nghỉ trung thu",
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -561,7 +547,7 @@
         "gioKetThuc": "14h50",
         "mon": "18KNS+18STEM",
         "lop": "2/4",
-        "ghiChu": "15h - 15h25 ra chơi",
+        "ghiChu": "15h - 15h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -601,9 +587,9 @@
         "ngay": "02/10/2026",
         "gioBatDau": "13h00",
         "gioKetThuc": "13h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/5",
-        "ghiChu": "CS Hương Phước 18KNS+18STEM",
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -615,7 +601,7 @@
         "ngay": "02/10/2026",
         "gioBatDau": "13h40",
         "gioKetThuc": "14h20",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/15",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -629,9 +615,9 @@
         "ngay": "02/10/2026",
         "gioBatDau": "14h20",
         "gioKetThuc": "14h55",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/11",
-        "ghiChu": "15h - 15h25 ra chơi",
+        "ghiChu": "15h - 15h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -643,7 +629,7 @@
         "ngay": "02/10/2026",
         "gioBatDau": "15h25",
         "gioKetThuc": "16h05",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/9",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -657,7 +643,7 @@
         "ngay": "02/10/2026",
         "gioBatDau": "16h05",
         "gioKetThuc": "16h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "2/14",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -667,7 +653,7 @@
   {
     "maGV": "DN019",
     "hoTen": "NGUYỄN THỊ HOÀNG OANH",
-    "tongSoTiet": 22,
+    "tongSoTiet": 17,
     "tietDay": [
       {
         "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
@@ -782,20 +768,6 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "13h45",
-        "gioKetThuc": "14h20",
-        "mon": "STEM",
-        "lop": "2.4",
-        "ghiChu": "CS2",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
         "truong": "TH Tam Hòa, CS2 - Biên Hoà",
         "tiet": "Tiết 2",
         "tietSo": 2,
@@ -810,20 +782,6 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "14h30",
-        "gioKetThuc": "15h05",
-        "mon": "STEM",
-        "lop": "2.5",
-        "ghiChu": "CS2",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
         "truong": "TH Tam Hòa, CS2 - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
@@ -836,20 +794,6 @@
         "lop": "4/4",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "15h30",
-        "gioKetThuc": "16h05",
-        "mon": "STEM",
-        "lop": "2.6",
-        "ghiChu": "CS2",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
@@ -876,7 +820,7 @@
         "gioKetThuc": "8h50",
         "mon": "KNS",
         "lop": "5C3",
-        "ghiChu": "Nghỉ trung thu",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -906,34 +850,6 @@
         "lop": "4C5",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "8h10",
-        "gioKetThuc": "8h45",
-        "mon": "KNS",
-        "lop": "5C4",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "9h15",
-        "gioKetThuc": "9h50",
-        "mon": "KNS",
-        "lop": "5C3",
-        "ghiChu": "bù 23/9 nghỉ trung thu",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Nguyễn Du - Biên Hoà",
@@ -984,6 +900,62 @@
     "hoTen": "ĐINH THỊ QUYÊN",
     "tongSoTiet": 18,
     "tietDay": [
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h10",
+        "mon": "CDS",
+        "lop": "5/5",
+        "ghiChu": "Học CM Phùng Linh",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "8h10",
+        "gioKetThuc": "8h50",
+        "mon": "CDS",
+        "lop": "5/5",
+        "ghiChu": "9h00-9h25\nra chơi",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "9h25",
+        "gioKetThuc": "10h00",
+        "mon": "CDS",
+        "lop": "5/2",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "10h00",
+        "gioKetThuc": "10h40",
+        "mon": "CDS",
+        "lop": "5/2",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
       {
         "truong": "TH Nguyễn Thị Sáu, CS2 - Biên Hoà",
         "tiet": "Tiết 1",
@@ -1067,62 +1039,6 @@
         "lop": "5/3",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "7H15",
-        "gioKetThuc": "7H55",
-        "mon": "CDS",
-        "lop": "4/6",
-        "ghiChu": "CS2",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "7H55",
-        "gioKetThuc": "8H35",
-        "mon": "KNS",
-        "lop": "4/1",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "8H35",
-        "gioKetThuc": "9H10",
-        "mon": "CDS",
-        "lop": "4/3",
-        "ghiChu": "DT Thu Hương",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "9H30",
-        "gioKetThuc": "10H10",
-        "mon": "CDS",
-        "lop": "4/2",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Nguyễn Thị Sáu, CS2 - Biên Hoà",
@@ -1338,7 +1254,7 @@
         "gioKetThuc": "14h20",
         "mon": "KNS",
         "lop": "1.7",
-        "ghiChu": "Nguyên DT",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -1416,7 +1332,7 @@
   {
     "maGV": "DN025",
     "hoTen": "NGUYỄN PHƯƠNG UYÊN",
-    "tongSoTiet": 20,
+    "tongSoTiet": 22,
     "tietDay": [
       {
         "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
@@ -1587,16 +1503,44 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "13h40",
+        "gioKetThuc": "14h15",
+        "mon": "KNS",
+        "lop": "1/17",
+        "ghiChu": "TH Tam Phước 4",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "14H20",
+        "gioKetThuc": "14H55",
+        "mon": "KNS",
+        "lop": "1/21",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
         "thu": "THỨ TƯ",
         "ngay": "30/09/2026",
-        "gioBatDau": "15h35",
-        "gioKetThuc": "16h10",
+        "gioBatDau": "15H25",
+        "gioKetThuc": "16H00",
         "mon": "KNS",
-        "lop": "1/7",
+        "lop": "2/19",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -1850,22 +1794,8 @@
   {
     "maGV": "DN034",
     "hoTen": "ĐẶNG TRẦN VÂN NGỌC ÁNH LY",
-    "tongSoTiet": 25,
+    "tongSoTiet": 22,
     "tietDay": [
-      {
-        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "9H05",
-        "gioKetThuc": "9H40",
-        "mon": "KNS",
-        "lop": "4/1",
-        "ghiChu": "BÙ 17/9",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
       {
         "truong": "TH Tam Hòa, CS1 - Biên Hoà",
         "tiet": "Tiết 1",
@@ -1989,7 +1919,7 @@
         "gioKetThuc": "8h50",
         "mon": "KNS",
         "lop": "4C3",
-        "ghiChu": "Nghỉ trung thu",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -2147,34 +2077,6 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Tam Hòa, CS1 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "07h15",
-        "gioKetThuc": "07h50",
-        "mon": "KNS",
-        "lop": "5/7",
-        "ghiChu": "bù 25/9 nghỉ trung thu",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS1 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "07h55",
-        "gioKetThuc": "08h30",
-        "mon": "CDS",
-        "lop": "5/4",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
         "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
@@ -2199,7 +2101,7 @@
         "gioKetThuc": "9h55",
         "mon": "KNS",
         "lop": "1/12",
-        "ghiChu": "NL Ánh Ly",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       }
     ]
@@ -2207,8 +2109,36 @@
   {
     "maGV": "DN035",
     "hoTen": "LÊ THỊ QUYÊN",
-    "tongSoTiet": 10,
+    "tongSoTiet": 17,
     "tietDay": [
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "9h20",
+        "gioKetThuc": "9h55",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/4",
+        "ghiChu": "Tuần sau bật",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "10h00",
+        "gioKetThuc": "10h35",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/9",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
       {
         "truong": "TH Bình Đa, điểm chính - Biên Hoà",
         "tiet": "Tiết 2",
@@ -2280,30 +2210,100 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "14h25",
-        "gioKetThuc": "15h00",
-        "mon": "KNS",
-        "lop": "1/6",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "truong": "TH Phan Bội Châu - Biên Hòa",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
         "thu": "THỨ NĂM",
         "ngay": "01/10/2026",
-        "gioBatDau": "15h35",
-        "gioKetThuc": "16h10",
-        "mon": "KNS",
-        "lop": "2/10",
+        "gioBatDau": "14h20",
+        "gioKetThuc": "14h55",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/10",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Chiều",
+        "thu": "THỨ NĂM",
+        "ngay": "01/10/2026",
+        "gioBatDau": "15h20",
+        "gioKetThuc": "15h55",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/13",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Chiều",
+        "thu": "THỨ NĂM",
+        "ngay": "01/10/2026",
+        "gioBatDau": "16h30",
+        "gioKetThuc": "16h35",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/12",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ SÁU",
+        "ngay": "02/10/2026",
+        "gioBatDau": "13h00",
+        "gioKetThuc": "13h35",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/15",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ SÁU",
+        "ngay": "02/10/2026",
+        "gioBatDau": "14h20",
+        "gioKetThuc": "14h55",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/11",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Chiều",
+        "thu": "THỨ SÁU",
+        "ngay": "02/10/2026",
+        "gioBatDau": "15h20",
+        "gioKetThuc": "15h55",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/14",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Chiều",
+        "thu": "THỨ SÁU",
+        "ngay": "02/10/2026",
+        "gioBatDau": "16h30",
+        "gioKetThuc": "16h35",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/16",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -2354,7 +2354,7 @@
   {
     "maGV": "DN039",
     "hoTen": "NGUYỄN THỊ THU HƯƠNG",
-    "tongSoTiet": 18,
+    "tongSoTiet": 11,
     "tietDay": [
       {
         "truong": "TH Bình Đa, điểm chính - Biên Hoà",
@@ -2479,104 +2479,6 @@
         "gioKetThuc": "16h10",
         "mon": "KNS",
         "lop": "4/6",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "7H15",
-        "gioKetThuc": "7H55",
-        "mon": "KNS",
-        "lop": "4/6",
-        "ghiChu": "CS2",
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "7H55",
-        "gioKetThuc": "8H35",
-        "mon": "KNS",
-        "lop": "4/1",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "8H35",
-        "gioKetThuc": "9H10",
-        "mon": "CDS",
-        "lop": "4/3",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "9H30",
-        "gioKetThuc": "10H10",
-        "mon": "CDS",
-        "lop": "4/2",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "13h30",
-        "gioKetThuc": "14h10",
-        "mon": "KNS",
-        "lop": "3/7",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "14h10",
-        "gioKetThuc": "14h45",
-        "mon": "KNS",
-        "lop": "3/8",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "15h05",
-        "gioKetThuc": "15h40",
-        "mon": "KNS",
-        "lop": "3/6",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -2746,7 +2648,7 @@
   {
     "maGV": "DN055",
     "hoTen": "PHẠM THỊ THẢO",
-    "tongSoTiet": 18,
+    "tongSoTiet": 22,
     "tietDay": [
       {
         "truong": "TH Nguyễn Du - Biên Hoà",
@@ -2819,34 +2721,6 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "13h45",
-        "gioKetThuc": "14h20",
-        "mon": "STEM",
-        "lop": "4.5",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "14h30",
-        "gioKetThuc": "15h05",
-        "mon": "STEM",
-        "lop": "4.4",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
         "truong": "TH Bình Đa, điểm chính - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
@@ -2861,18 +2735,102 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "7H15",
+        "gioKetThuc": "7H55",
+        "mon": "CDS",
+        "lop": "4/6",
+        "ghiChu": "CS2",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "7H55",
+        "gioKetThuc": "8H35",
+        "mon": "CDS",
+        "lop": "4/1",
+        "ghiChu": "NL  Thu Hương",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "8H35",
+        "gioKetThuc": "9H10",
+        "mon": "CDS",
+        "lop": "4/3",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "9H30",
+        "gioKetThuc": "10H10",
+        "mon": "CDS",
+        "lop": "4/2",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "13h30",
+        "gioKetThuc": "14h10",
+        "mon": "KNS",
+        "lop": "3/7",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "14h10",
+        "gioKetThuc": "14h45",
+        "mon": "KNS",
+        "lop": "3/8",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "15h30",
-        "gioKetThuc": "16h05",
-        "mon": "STEM",
-        "lop": "4.6",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "15h05",
+        "gioKetThuc": "15h40",
+        "mon": "KNS",
+        "lop": "3/6",
         "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+        "loaiLich": "Lịch chính"
       },
       {
         "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
@@ -3005,7 +2963,7 @@
   {
     "maGV": "DN058",
     "hoTen": "BÙI THỊ LAN ANH",
-    "tongSoTiet": 23,
+    "tongSoTiet": 19,
     "tietDay": [
       {
         "truong": "TH Phước Tân, điểm TH Tân Mai 2 - Biên Hoà",
@@ -3120,20 +3078,6 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "15h35",
-        "gioKetThuc": "16h10",
-        "mon": "KNS",
-        "lop": "1/1",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
         "truong": "TH Phước Tân, điểm TH Tân Mai 2 - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
@@ -3205,6 +3149,20 @@
       },
       {
         "truong": "TH Phước Tân, điểm TH Tân Mai 2 - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "15h20",
+        "gioKetThuc": "16h00",
+        "mon": "STEM",
+        "lop": "3B3",
+        "ghiChu": "Bù  23/9",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, điểm TH Tân Mai 2 - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
@@ -3214,7 +3172,7 @@
         "gioKetThuc": "16h00",
         "mon": "STEM",
         "lop": "3B3",
-        "ghiChu": "Nghỉ trung thu. Chue độnglieen hệ GVCN xin lịch bù",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -3272,95 +3230,53 @@
         "lop": "3/10",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "13h00",
-        "gioKetThuc": "13h35",
-        "mon": "KNS",
-        "lop": "2/8",
-        "ghiChu": "CS TH Hoàng Hoa Thám",
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "13h40",
-        "gioKetThuc": "14h10",
-        "mon": "KNS",
-        "lop": "3/11",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "14h15",
-        "gioKetThuc": "14h55",
-        "mon": "KNS",
-        "lop": "2/11",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Chiều",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "15h20",
-        "gioKetThuc": "15h55",
-        "mon": "STEM",
-        "lop": "2/11",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
       }
     ]
   },
   {
     "maGV": "DN059",
     "hoTen": "NGUYỄN YẾN VY",
-    "tongSoTiet": 9,
+    "tongSoTiet": 14,
     "tietDay": [
       {
-        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "7h00",
+        "gioKetThuc": "7h35",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/2",
+        "ghiChu": "Tuần sau bật",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
         "tiet": "Tiết 2",
         "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "14h25",
-        "gioKetThuc": "15h00",
-        "mon": "KNS",
-        "lop": "2/14",
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h15",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/3",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Chiều",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "15h35",
-        "gioKetThuc": "16h10",
-        "mon": "KNS",
-        "lop": "5/4",
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "8h20",
+        "gioKetThuc": "8h55",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/1",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -3407,6 +3323,34 @@
         "loaiLich": "Lịch chính"
       },
       {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "7h00",
+        "gioKetThuc": "7h35",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/6",
+        "ghiChu": "Tuần sau bật",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h15",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/5",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
         "truong": "TH Nguyễn Du - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
@@ -3445,6 +3389,34 @@
         "gioKetThuc": "16h05",
         "mon": "KNS",
         "lop": "1.4",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Sáng",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "7h00",
+        "gioKetThuc": "7h35",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/8",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phan Bội Châu - Biên Hòa",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "8h20",
+        "gioKetThuc": "8h55",
+        "mon": "TH 24 KNS + 12 STEM",
+        "lop": "3/7",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -3642,7 +3614,7 @@
   {
     "maGV": "DN063",
     "hoTen": "TẠ NGUYỄN KHÁNH TIÊN",
-    "tongSoTiet": 20,
+    "tongSoTiet": 21,
     "tietDay": [
       {
         "truong": "TH Quang Vinh, điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
@@ -3757,7 +3729,7 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Quang Vinh - Biên Hoà",
+        "truong": "TH  - Biên Hoà",
         "tiet": "Tiết 4",
         "tietSo": 4,
         "buoi": "Sáng",
@@ -3783,6 +3755,20 @@
         "lop": "1/1",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "13h30",
+        "gioKetThuc": "14h10",
+        "mon": "KNS",
+        "lop": "2/3",
+        "ghiChu": "Bù  23/9",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
@@ -3929,7 +3915,7 @@
   {
     "maGV": "DN066",
     "hoTen": "NGUYỄN THỊ CẨM TIÊN",
-    "tongSoTiet": 21,
+    "tongSoTiet": 17,
     "tietDay": [
       {
         "truong": "TH Nguyễn Thị Sáu, điểm TH Long Hưng - Biên Hoà",
@@ -4096,7 +4082,7 @@
         "gioKetThuc": "8h50",
         "mon": "KNS",
         "lop": "4C2",
-        "ghiChu": null,
+        "ghiChu": "Chuyển  Trà My",
         "loaiLich": "Lịch chính"
       },
       {
@@ -4156,82 +4142,40 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "8h10",
-        "gioKetThuc": "8h50",
-        "mon": "KNS",
-        "lop": "4/3",
-        "ghiChu": "Bù 25/9 nghỉ trung thu",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "9h10",
-        "gioKetThuc": "9h50",
-        "mon": "KNS",
-        "lop": "4/4",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "9h50",
-        "gioKetThuc": "10h30",
-        "mon": "KNS",
-        "lop": "4/5",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Quang Vinh, điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "14h55",
-        "gioKetThuc": "15h30",
-        "mon": "STEM",
-        "lop": "2/7",
-        "ghiChu": "DT Tuyết Anh",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Quang Vinh - điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
+        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
         "tiet": "Tiết 4",
         "tietSo": 4,
         "buoi": "Chiều",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "15h35",
-        "gioKetThuc": "16h10",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "15h20",
+        "gioKetThuc": "15h55",
         "mon": "STEM",
-        "lop": "2/9",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+        "lop": "2/11",
+        "ghiChu": "NL Lan Anh",
+        "loaiLich": "Lịch chính"
       }
     ]
   },
   {
     "maGV": "DN073",
     "hoTen": "PHÙNG THỊ LINH",
-    "tongSoTiet": 20,
+    "tongSoTiet": 36,
     "tietDay": [
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h10",
+        "mon": "CDS",
+        "lop": "5/5",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
       {
         "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
         "tiet": "Tiết 2",
@@ -4244,6 +4188,20 @@
         "mon": "CDS",
         "lop": "5/17",
         "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "8h10",
+        "gioKetThuc": "8h50",
+        "mon": "CDS",
+        "lop": "5/5",
+        "ghiChu": "9h00-9h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -4257,7 +4215,21 @@
         "gioKetThuc": "8h50",
         "mon": "CDS",
         "lop": "5/17",
-        "ghiChu": "9h00-9h25 ra chơi",
+        "ghiChu": "9h00-9h25\nra chơi",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "9h25",
+        "gioKetThuc": "10h00",
+        "mon": "CDS",
+        "lop": "5/2",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -4271,6 +4243,20 @@
         "gioKetThuc": "10h00",
         "mon": "CDS",
         "lop": "5/15",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "10h00",
+        "gioKetThuc": "10h40",
+        "mon": "CDS",
+        "lop": "5/2",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -4286,6 +4272,20 @@
         "mon": "CDS",
         "lop": "5/15",
         "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "13h40",
+        "gioKetThuc": "14h10",
+        "mon": "CDS",
+        "lop": "5/6",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -4300,6 +4300,20 @@
         "mon": "CDS",
         "lop": "5/10",
         "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "14h10",
+        "gioKetThuc": "14h50",
+        "mon": "CDS",
+        "lop": "5/6",
+        "ghiChu": "15h - 15h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -4313,7 +4327,21 @@
         "gioKetThuc": "14h50",
         "mon": "CDS",
         "lop": "5/10",
-        "ghiChu": "15h - 15h25 ra chơi",
+        "ghiChu": "15h - 15h25\nra chơi",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Chiều",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "15h25",
+        "gioKetThuc": "16h00",
+        "mon": "CDS",
+        "lop": "5/16",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -4327,6 +4355,20 @@
         "gioKetThuc": "16h00",
         "mon": "CDS",
         "lop": "5/8",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Chiều",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "16h00",
+        "gioKetThuc": "16h40",
+        "mon": "CDS",
+        "lop": "5/16",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -4342,6 +4384,76 @@
         "mon": "CDS",
         "lop": "5/8",
         "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h20",
+        "mon": "CDS",
+        "lop": "5/9",
+        "ghiChu": "đi sớm 15p",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "8h20",
+        "gioKetThuc": "8h55",
+        "mon": "CDS",
+        "lop": "5/9",
+        "ghiChu": "9h-9h25 ra chơi",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "9h25",
+        "gioKetThuc": "10h00",
+        "mon": "CDS",
+        "lop": "5/7",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "10h00",
+        "gioKetThuc": "10h40",
+        "mon": "CDS",
+        "lop": "5/7",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "13h40",
+        "gioKetThuc": "14h10",
+        "mon": "CDS",
+        "lop": "5/3",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -4356,6 +4468,20 @@
         "mon": "CDS",
         "lop": "5/14",
         "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "14h10",
+        "gioKetThuc": "14h50",
+        "mon": "CDS",
+        "lop": "5/3",
+        "ghiChu": "15h - 15h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -4369,7 +4495,21 @@
         "gioKetThuc": "14h50",
         "mon": "CDS",
         "lop": "5/14",
-        "ghiChu": "15h - 15h25 ra chơi",
+        "ghiChu": "15h - 15h25\nra chơi",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "15h25",
+        "gioKetThuc": "16h00",
+        "mon": "CDS",
+        "lop": "5/1",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -4383,6 +4523,20 @@
         "gioKetThuc": "16h00",
         "mon": "CDS",
         "lop": "5/13",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "16h00",
+        "gioKetThuc": "16h40",
+        "mon": "CDS",
+        "lop": "5/1",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -4398,7 +4552,7 @@
         "mon": "CDS",
         "lop": "5/13",
         "ghiChu": null,
-        "loaiLich": "Lịch chính"
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
@@ -4410,7 +4564,7 @@
         "gioBatDau": "13h40",
         "gioKetThuc": "14h20",
         "mon": "CDS",
-        "lop": "5/19",
+        "lop": "5/4",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -4424,7 +4578,7 @@
         "gioBatDau": "14h20",
         "gioKetThuc": "14h55",
         "mon": "CDS",
-        "lop": "5/19",
+        "lop": "5/4",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -4517,7 +4671,7 @@
   {
     "maGV": "DN080",
     "hoTen": "BẠCH THỊ TUYẾT ANH",
-    "tongSoTiet": 16,
+    "tongSoTiet": 19,
     "tietDay": [
       {
         "truong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
@@ -4573,7 +4727,7 @@
         "mon": "CDS",
         "lop": "5/18",
         "ghiChu": "đi sớm 15p",
-        "loaiLich": "Lịch chính"
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
@@ -4587,7 +4741,7 @@
         "mon": "CDS",
         "lop": "5/18",
         "ghiChu": "9h-9h25 ra chơi",
-        "loaiLich": "Lịch chính"
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
@@ -4632,7 +4786,7 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Tam Hòa, CS1 - Biên Hoà",
+        "truong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
         "buoi": "Chiều",
@@ -4646,7 +4800,7 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Tam Hòa, CS1 - Biên Hoà",
+        "truong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
         "tiet": "Tiết 2",
         "tietSo": 2,
         "buoi": "Chiều",
@@ -4726,8 +4880,8 @@
         "gioKetThuc": "15h30",
         "mon": "STEM",
         "lop": "2/7",
-        "ghiChu": "Cẩm Tiên DT",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
       },
       {
         "truong": "TH Quang Vinh - điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
@@ -4741,15 +4895,113 @@
         "mon": "STEM",
         "lop": "2/9",
         "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Sáng",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "7h00",
+        "gioKetThuc": "7h35",
+        "mon": "KNS",
+        "lop": "3/9",
+        "ghiChu": "NL Phạm Thảo",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "8h20",
+        "gioKetThuc": "8h55",
+        "mon": "STEM",
+        "lop": "1/10",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "9h20",
+        "gioKetThuc": "9h55",
+        "mon": "KNS",
+        "lop": "1/10",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
       }
     ]
   },
   {
     "maGV": "GV1088",
     "hoTen": "PHẠM THÚY HÀ",
-    "tongSoTiet": 20,
+    "tongSoTiet": 35,
     "tietDay": [
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h10",
+        "mon": "CDS",
+        "lop": "5/5",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "8h10",
+        "gioKetThuc": "8h50",
+        "mon": "CDS",
+        "lop": "5/5",
+        "ghiChu": "9h00-9h25\nra chơi",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "9h25",
+        "gioKetThuc": "10h00",
+        "mon": "CDS",
+        "lop": "5/2",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Sáng",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "10h00",
+        "gioKetThuc": "10h40",
+        "mon": "CDS",
+        "lop": "5/2",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
       {
         "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
         "tiet": "Tiết 1",
@@ -4791,6 +5043,62 @@
         "lop": "1/13",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h20",
+        "mon": "CDS",
+        "lop": "5/9",
+        "ghiChu": "đi sớm 15p",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "8h20",
+        "gioKetThuc": "8h55",
+        "mon": "CDS",
+        "lop": "5/9",
+        "ghiChu": "9h-9h25 ra chơi",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "9h25",
+        "gioKetThuc": "10h00",
+        "mon": "CDS",
+        "lop": "5/7",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Sáng",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "10h00",
+        "gioKetThuc": "10h40",
+        "mon": "CDS",
+        "lop": "5/7",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
@@ -4835,6 +5143,48 @@
         "loaiLich": "Lịch chính"
       },
       {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "7h40",
+        "gioKetThuc": "8h20",
+        "mon": "CDS",
+        "lop": "5/12",
+        "ghiChu": "đi sớm 15p",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "8h20",
+        "gioKetThuc": "8h55",
+        "mon": "CDS",
+        "lop": "5/12",
+        "ghiChu": "9h-9h25 ra chơi",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "9h25",
+        "gioKetThuc": "10h00",
+        "mon": "CDS",
+        "lop": "5/11",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
         "truong": "TH Thống Nhất - Biên Hoà",
         "tiet": "Tiết 4",
         "tietSo": 4,
@@ -4847,6 +5197,20 @@
         "lop": "3/4",
         "ghiChu": "KHU A",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
+        "tiet": "Tiết 5",
+        "tietSo": 5,
+        "buoi": "Sáng",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "10h00",
+        "gioKetThuc": "10h40",
+        "mon": "CDS",
+        "lop": "5/11",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
       },
       {
         "truong": "TH Thống Nhất - Biên Hoà",
@@ -4919,6 +5283,20 @@
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
+        "truong": "TH Quang Vinh, điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ NĂM",
+        "ngay": "01/10/2026",
+        "gioBatDau": "13h50",
+        "gioKetThuc": "14h25",
+        "mon": "STEM",
+        "lop": "1/10",
+        "ghiChu": "NL  Diệp Trang",
+        "loaiLich": "Lịch chính"
+      },
+      {
         "truong": "TH Thống Nhất - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
@@ -4933,6 +5311,20 @@
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
+        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Chiều",
+        "thu": "THỨ NĂM",
+        "ngay": "01/10/2026",
+        "gioBatDau": "15h35",
+        "gioKetThuc": "16h10",
+        "mon": "KNS",
+        "lop": "3/7",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
         "truong": "TH Thống Nhất - Biên Hoà",
         "tiet": "Tiết 4",
         "tietSo": 4,
@@ -4945,6 +5337,20 @@
         "lop": "2/1",
         "ghiChu": "KHU A",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Sáng",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "7h00",
+        "gioKetThuc": "7h35",
+        "mon": "KNS",
+        "lop": "3/7",
+        "ghiChu": "NL  Ánh",
+        "loaiLich": "Lịch chính"
       },
       {
         "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
@@ -4985,7 +5391,7 @@
         "gioKetThuc": "13h35",
         "mon": "KNS",
         "lop": "2/10",
-        "ghiChu": "CS TH Hoàng Hoa Thám",
+        "ghiChu": "CS  TH Hoàng Hoa Thám",
         "loaiLich": "Lịch chính"
       },
       {
@@ -4999,7 +5405,7 @@
         "gioKetThuc": "14h10",
         "mon": "KNS",
         "lop": "3/12",
-        "ghiChu": "NL Hồng Ân (Bình Dương) 0397068698",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -5035,7 +5441,7 @@
   {
     "maGV": "DN081",
     "hoTen": "NGUYỄN THỊ THANH THẢO",
-    "tongSoTiet": 18,
+    "tongSoTiet": 20,
     "tietDay": [
       {
         "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
@@ -5046,9 +5452,9 @@
         "ngay": "28/09/2026",
         "gioBatDau": "9h25",
         "gioKetThuc": "10h00",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/5",
-        "ghiChu": "CS Hương Phước 18KNS+18STEM",
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -5060,8 +5466,36 @@
         "ngay": "28/09/2026",
         "gioBatDau": "10h00",
         "gioKetThuc": "10h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/6",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "14h25",
+        "gioKetThuc": "15h00",
+        "mon": "KNS",
+        "lop": "2/14",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Chiều",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "15h35",
+        "gioKetThuc": "16h10",
+        "mon": "KNS",
+        "lop": "5/4",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -5146,7 +5580,7 @@
         "gioKetThuc": "7h40",
         "mon": "18KNS+18STEM",
         "lop": "1/10",
-        "ghiChu": "CS Hương Phước 18KNS+18STEM",
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -5174,7 +5608,7 @@
         "gioKetThuc": "8h55",
         "mon": "18KNS+18STEM",
         "lop": "1/11",
-        "ghiChu": "9h00-9h25 ra chơi",
+        "ghiChu": "9h00-9h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -5214,9 +5648,9 @@
         "ngay": "01/10/2026",
         "gioBatDau": "7h00",
         "gioKetThuc": "7h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/8",
-        "ghiChu": "CS Hương Phước 18KNS+18STEM",
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -5228,7 +5662,7 @@
         "ngay": "01/10/2026",
         "gioBatDau": "7h40",
         "gioKetThuc": "8h10",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/4",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -5242,9 +5676,9 @@
         "ngay": "01/10/2026",
         "gioBatDau": "8h10",
         "gioKetThuc": "8h50",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/9",
-        "ghiChu": "9h00-9h25 ra chơi",
+        "ghiChu": "9h00-9h25\nra chơi",
         "loaiLich": "Lịch chính"
       },
       {
@@ -5256,9 +5690,9 @@
         "ngay": "01/10/2026",
         "gioBatDau": "9h25",
         "gioKetThuc": "10h00",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/16",
-        "ghiChu": "Trường tổ chức trung thu",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -5270,7 +5704,7 @@
         "ngay": "01/10/2026",
         "gioBatDau": "10h00",
         "gioKetThuc": "10h40",
-        "mon": "KNS+STEM",
+        "mon": "18KNS+18STEM",
         "lop": "1/19",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
@@ -5294,7 +5728,7 @@
   {
     "maGV": "DN083",
     "hoTen": "PHẠM NGỌC ÁNH",
-    "tongSoTiet": 14,
+    "tongSoTiet": 11,
     "tietDay": [
       {
         "truong": "TH Quang Vinh, điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
@@ -5349,7 +5783,7 @@
         "gioKetThuc": "8H50",
         "mon": "KNS",
         "lop": "4/1",
-        "ghiChu": "Lễ trung thu nghỉ tiết 1,2,3",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -5363,7 +5797,7 @@
         "gioKetThuc": "9H50",
         "mon": "KNS",
         "lop": "4/2",
-        "ghiChu": "Trường báo nghỉ trễ",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -5449,55 +5883,13 @@
         "lop": "2/8",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "8h10",
-        "gioKetThuc": "8h50",
-        "mon": "KNS",
-        "lop": "4/2",
-        "ghiChu": "Bù 25/9 nghỉ trung thu",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "9h10",
-        "gioKetThuc": "9h50",
-        "mon": "KNS",
-        "lop": "4/1",
-        "ghiChu": "Bù 25/9",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Sáng",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "7h00",
-        "gioKetThuc": "7h35",
-        "mon": "KNS",
-        "lop": "3/7",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
       }
     ]
   },
   {
     "maGV": "DN085",
     "hoTen": "HUỲNH PHÚC DUYÊN",
-    "tongSoTiet": 15,
+    "tongSoTiet": 14,
     "tietDay": [
       {
         "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
@@ -5694,27 +6086,13 @@
         "lop": "3B1",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "8h20",
-        "gioKetThuc": "8h55",
-        "mon": "STEM",
-        "lop": "1/10",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
       }
     ]
   },
   {
     "maGV": "DN087",
     "hoTen": "NGUYỄN THỊ PHƯƠNG TRANG",
-    "tongSoTiet": 19,
+    "tongSoTiet": 18,
     "tietDay": [
       {
         "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
@@ -5741,7 +6119,7 @@
         "gioKetThuc": "10h30",
         "mon": "STEM",
         "lop": "4B3",
-        "ghiChu": "LH Trúc",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -5783,7 +6161,7 @@
         "gioKetThuc": "8H50",
         "mon": "KNS",
         "lop": "4/5",
-        "ghiChu": "Lễ trung thu nghỉ tiết 1,2,3",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -5811,7 +6189,7 @@
         "gioKetThuc": "10H30",
         "mon": "KNS",
         "lop": "4/3",
-        "ghiChu": "Trường báo nghỉ trễ",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -5909,7 +6287,7 @@
         "gioKetThuc": "07h40",
         "mon": "18KNS+18STEM",
         "lop": "1/13",
-        "ghiChu": "CS Hương Phước 18KNS+18STEM",
+        "ghiChu": "CS  Hương Phước\n18KNS+18STEM",
         "loaiLich": "Lịch chính"
       },
       {
@@ -5967,56 +6345,14 @@
         "lop": "1/18",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Sáng",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "9h20",
-        "gioKetThuc": "9h55",
-        "mon": "KNS",
-        "lop": "1/10",
-        "ghiChu": "BG Thị Trang",
-        "loaiLich": "Lịch chính"
       }
     ]
   },
   {
     "maGV": "DN092",
     "hoTen": "DIỆP THIÊN TRANG",
-    "tongSoTiet": 4,
+    "tongSoTiet": 2,
     "tietDay": [
-      {
-        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "13h45",
-        "gioKetThuc": "14h20",
-        "mon": "KNS",
-        "lop": "3/12",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "15h35",
-        "gioKetThuc": "16h10",
-        "mon": "KNS",
-        "lop": "4/9",
-        "ghiChu": null,
-        "loaiLich": "Lịch chính"
-      },
       {
         "truong": "TH Quang Vinh, điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
         "tiet": "Tiết 2",
@@ -6050,7 +6386,7 @@
   {
     "maGV": "DN093",
     "hoTen": "PHẠM ĐÌNH NGUYÊN",
-    "tongSoTiet": 13,
+    "tongSoTiet": 10,
     "tietDay": [
       {
         "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
@@ -6067,63 +6403,7 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "7H30",
-        "gioKetThuc": "8H05",
-        "mon": "KNS",
-        "lop": "2/16",
-        "ghiChu": "Học CM Phương Uyên",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "8H10",
-        "gioKetThuc": "8H45",
-        "mon": "KNS",
-        "lop": "2/17",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "9H15",
-        "gioKetThuc": "9H50",
-        "mon": "KNS",
-        "lop": "2/18",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Sáng",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "9H55",
-        "gioKetThuc": "10H30",
-        "mon": "KNS",
-        "lop": "2/21",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
+        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
         "buoi": "Chiều",
@@ -6132,37 +6412,23 @@
         "gioBatDau": "13h45",
         "gioKetThuc": "14h20",
         "mon": "KNS",
-        "lop": "1.7",
-        "ghiChu": "DT Đặng Chiến",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+        "lop": "3/12",
+        "ghiChu": "NL  Thiên Trang",
+        "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "14h30",
-        "gioKetThuc": "15h05",
-        "mon": "KNS",
-        "lop": "1.8",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
+        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
         "thu": "THỨ TƯ",
         "ngay": "30/09/2026",
-        "gioBatDau": "15h30",
-        "gioKetThuc": "16h05",
+        "gioBatDau": "15h35",
+        "gioKetThuc": "16h10",
         "mon": "KNS",
-        "lop": "1.9",
+        "lop": "4/9",
         "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+        "loaiLich": "Lịch chính"
       },
       {
         "truong": "TH Bình Đa, điểm chính - Biên Hoà",
@@ -6210,13 +6476,41 @@
         "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
-        "buoi": "Sáng",
+        "buoi": "Chiều",
         "thu": "THỨ BẢY",
         "ngay": "03/10/2026",
-        "gioBatDau": "7h00",
-        "gioKetThuc": "7h35",
+        "gioBatDau": "13h00",
+        "gioKetThuc": "13h35",
         "mon": "KNS",
-        "lop": "3/9",
+        "lop": "2/8",
+        "ghiChu": "CS  TH Hoàng Hoa Thám",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "13h40",
+        "gioKetThuc": "14h10",
+        "mon": "KNS",
+        "lop": "3/11",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ BẢY",
+        "ngay": "03/10/2026",
+        "gioBatDau": "14h15",
+        "gioKetThuc": "14h55",
+        "mon": "KNS",
+        "lop": "2/11",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -6239,62 +6533,34 @@
   {
     "maGV": "DN094",
     "hoTen": "NGUYỄN NGỌC THANH TRÚC",
-    "tongSoTiet": 24,
+    "tongSoTiet": 21,
     "tietDay": [
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "13h45",
-        "gioKetThuc": "14h20",
-        "mon": "KNS",
-        "lop": "3.4",
-        "ghiChu": "Học CM Thanh Hương",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "14h30",
-        "gioKetThuc": "15h05",
-        "mon": "KNS",
-        "lop": "3.5",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
+        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
-        "buoi": "Chiều",
+        "buoi": "Sáng",
         "thu": "THỨ HAI",
         "ngay": "28/09/2026",
-        "gioBatDau": "15h30",
-        "gioKetThuc": "16h05",
+        "gioBatDau": "9H10",
+        "gioKetThuc": "9H50",
         "mon": "KNS",
-        "lop": "3.6",
-        "ghiChu": null,
+        "lop": "2/2",
+        "ghiChu": "Bù  23/9",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
-        "truong": "TH Phước Tân - ph Tân Mai 2 - Biên Hoà",
+        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
         "tiet": "Tiết 4",
         "tietSo": 4,
         "buoi": "Sáng",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "9h50",
-        "gioKetThuc": "10h30",
-        "mon": "STEM",
-        "lop": "4B3",
-        "ghiChu": "LH Trúc",
+        "thu": "THỨ HAI",
+        "ngay": "28/09/2026",
+        "gioBatDau": "9H50",
+        "gioKetThuc": "10H30",
+        "mon": "KNS",
+        "lop": "2/5",
+        "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
@@ -6322,7 +6588,7 @@
         "gioKetThuc": "8H10",
         "mon": "KNS",
         "lop": "2/2",
-        "ghiChu": "Lễ trung thu nghỉ tiết 1,2,3",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -6364,7 +6630,7 @@
         "gioKetThuc": "10H30",
         "mon": "KNS",
         "lop": "2/5",
-        "ghiChu": "Trường báo nghỉ trễ",
+        "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
       {
@@ -6380,6 +6646,20 @@
         "lop": "5/4",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
+        "tiet": "Tiết 4",
+        "tietSo": 4,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "15h20",
+        "gioKetThuc": "16h00",
+        "mon": "KNS",
+        "lop": "2/4",
+        "ghiChu": "Bù  23/9",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
@@ -6450,34 +6730,6 @@
         "lop": "3/5",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "7H30",
-        "gioKetThuc": "8H05",
-        "mon": "KNS",
-        "lop": "3/19",
-        "ghiChu": "DT THẢO",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ SÁU",
-        "ngay": "02/10/2026",
-        "gioBatDau": "8H10",
-        "gioKetThuc": "8H45",
-        "mon": "KNS",
-        "lop": "3/14",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
@@ -6582,106 +6834,8 @@
   {
     "maGV": "DN095",
     "hoTen": "PHÙNG THỊ TRANG",
-    "tongSoTiet": 28,
+    "tongSoTiet": 18,
     "tietDay": [
-      {
-        "truong": "TH Nguyễn Thị Sáu, điểm TH Long Hưng - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "13h45",
-        "gioKetThuc": "14h20",
-        "mon": "KNS",
-        "lop": "1/7",
-        "ghiChu": "Học CM Cẩm Tiên",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Thị Sáu, điểm TH Long Hưng - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "14h25",
-        "gioKetThuc": "15h00",
-        "mon": "KNS",
-        "lop": "1/8",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Thị Sáu, điểm TH Long Hưng - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ HAI",
-        "ngay": "28/09/2026",
-        "gioBatDau": "15h25",
-        "gioKetThuc": "16h00",
-        "mon": "KNS",
-        "lop": "3/7",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Sáng",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "7h30",
-        "gioKetThuc": "8h10",
-        "mon": "KNS",
-        "lop": "2C7",
-        "ghiChu": "Học CM Lan Anh",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Sáng",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "8h10",
-        "gioKetThuc": "8h50",
-        "mon": "KNS",
-        "lop": "3C1",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Sáng",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "9h10",
-        "gioKetThuc": "9h50",
-        "mon": "KNS",
-        "lop": "2C2",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Sáng",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "9h50",
-        "gioKetThuc": "10h30",
-        "mon": "KNS",
-        "lop": "1C6",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
       {
         "truong": "TH Bình Đa, điểm chính - Biên Hoà",
         "tiet": "Tiết 2",
@@ -6739,44 +6893,16 @@
         "loaiLich": "Lịch chính"
       },
       {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "13h40",
-        "gioKetThuc": "14h15",
-        "mon": "KNS",
-        "lop": "1/17",
-        "ghiChu": "TH Tam Phước 4",
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "30/09/2026",
-        "gioBatDau": "14H20",
-        "gioKetThuc": "14H55",
-        "mon": "KNS",
-        "lop": "1/21",
-        "ghiChu": "DT Uyên",
-        "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
+        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
         "thu": "THỨ TƯ",
         "ngay": "30/09/2026",
-        "gioBatDau": "15H25",
-        "gioKetThuc": "16H00",
+        "gioBatDau": "15h35",
+        "gioKetThuc": "16h10",
         "mon": "KNS",
-        "lop": "2/19",
+        "lop": "1/7",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
       },
@@ -6908,20 +7034,6 @@
       },
       {
         "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
-        "tiet": "Tiết 4",
-        "tietSo": 4,
-        "buoi": "Sáng",
-        "thu": "THỨ BẢY",
-        "ngay": "03/10/2026",
-        "gioBatDau": "9h20",
-        "gioKetThuc": "9h55",
-        "mon": "KNS",
-        "lop": "1/10",
-        "ghiChu": "DT Phương Trang",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
         "buoi": "Chiều",
@@ -6979,12 +7091,61 @@
     ]
   },
   {
-    "maGV": "DN096",
-    "hoTen": "NGUYỄN THỊ MỸ DUYÊN",
-    "tongSoTiet": 6,
+    "maGV": "DN097",
+    "hoTen": "NGUYỄN THU THUỶ",
+    "tongSoTiet": 3,
     "tietDay": [
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
+        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "15h35",
+        "gioKetThuc": "16h10",
+        "mon": "KNS",
+        "lop": "1/1",
+        "ghiChu": "NL Lan Anh",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ NĂM",
+        "ngay": "01/10/2026",
+        "gioBatDau": "14h25",
+        "gioKetThuc": "15h00",
+        "mon": "KNS",
+        "lop": "1/6",
+        "ghiChu": "NL  Lê Quyên",
+        "loaiLich": "Lịch chính"
+      },
+      {
+        "truong": "TH Bình Đa, điểm chính - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ NĂM",
+        "ngay": "01/10/2026",
+        "gioBatDau": "15h35",
+        "gioKetThuc": "16h10",
+        "mon": "KNS",
+        "lop": "2/10",
+        "ghiChu": null,
+        "loaiLich": "Lịch chính"
+      }
+    ]
+  },
+  {
+    "maGV": "DN098",
+    "hoTen": "QUÁCH THỊ HỒNG NGỌC",
+    "tongSoTiet": 3,
+    "tietDay": [
+      {
+        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
         "buoi": "Chiều",
@@ -6993,86 +7154,44 @@
         "gioBatDau": "13h45",
         "gioKetThuc": "14h20",
         "mon": "KNS",
-        "lop": "2.9",
-        "ghiChu": "CS2",
+        "lop": "5/14",
+        "ghiChu": "Học CM\nThúy Hà",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
+        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
         "tiet": "Tiết 2",
         "tietSo": 2,
         "buoi": "Chiều",
         "thu": "THỨ BA",
         "ngay": "29/09/2026",
-        "gioBatDau": "14h30",
-        "gioKetThuc": "15h05",
+        "gioBatDau": "14h25",
+        "gioKetThuc": "15h00",
         "mon": "KNS",
-        "lop": "2.8",
-        "ghiChu": "Học CM Đặng Thị Chiến",
+        "lop": "5/10",
+        "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
-        "truong": "TH Nguyễn Du - Biên Hoà",
+        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
         "thu": "THỨ BA",
         "ngay": "29/09/2026",
-        "gioBatDau": "15h30",
-        "gioKetThuc": "16h05",
+        "gioBatDau": "15h35",
+        "gioKetThuc": "16h10",
         "mon": "KNS",
-        "lop": "2.7",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "13h45",
-        "gioKetThuc": "14h20",
-        "mon": "KNS",
-        "lop": "1.5",
-        "ghiChu": "Học CM Yến Vy",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "14h30",
-        "gioKetThuc": "15h05",
-        "mon": "KNS",
-        "lop": "1.6",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "15h30",
-        "gioKetThuc": "16h05",
-        "mon": "KNS",
-        "lop": "1.4",
+        "lop": "5/11",
         "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       }
     ]
   },
   {
-    "maGV": "DN097",
-    "hoTen": "NGUYỄN THU THUỶ",
-    "tongSoTiet": 6,
+    "maGV": "DN099",
+    "hoTen": "NGUYỄN NGỌC BẢO NGÂN",
+    "tongSoTiet": 3,
     "tietDay": [
       {
         "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
@@ -7085,7 +7204,7 @@
         "gioKetThuc": "14h20",
         "mon": "KNS",
         "lop": "1/12",
-        "ghiChu": "Học CM Lê Quyên",
+        "ghiChu": "Học CM \nLê Quyên",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
@@ -7115,6 +7234,103 @@
         "lop": "4/12",
         "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      }
+    ]
+  },
+  {
+    "maGV": "DN100",
+    "hoTen": "ĐINH THỊ MINH NGUYỆT",
+    "tongSoTiet": 0,
+    "tietDay": []
+  },
+  {
+    "maGV": "DN101",
+    "hoTen": "HOÀNG NGỌC ANH",
+    "tongSoTiet": 9,
+    "tietDay": [
+      {
+        "truong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "13h45",
+        "gioKetThuc": "14h20",
+        "mon": "KNS",
+        "lop": "1/1",
+        "ghiChu": "Học  CM\nNgọc Anh",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "14h25",
+        "gioKetThuc": "15h00",
+        "mon": "KNS",
+        "lop": "1/2",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "15h25",
+        "gioKetThuc": "16h00",
+        "mon": "KNS",
+        "lop": "1/3",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Nguyễn Du - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "13h45",
+        "gioKetThuc": "14h20",
+        "mon": "KNS",
+        "lop": "2.3",
+        "ghiChu": "Học CM Cẩm Tiên",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Nguyễn Du - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "14h30",
+        "gioKetThuc": "15h05",
+        "mon": "KNS",
+        "lop": "2.2",
+        "ghiChu": "CS2",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Nguyễn Du - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "15h30",
+        "gioKetThuc": "16h05",
+        "mon": "KNS",
+        "lop": "2.1",
+        "ghiChu": "CS2",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Tam Hòa, CS2 - Biên Hoà",
@@ -7126,8 +7342,8 @@
         "gioBatDau": "13h30",
         "gioKetThuc": "14h10",
         "mon": "CDS",
-        "lop": "3/8",
-        "ghiChu": "Học CM Thanh Hương",
+        "lop": "4/1",
+        "ghiChu": "Học CM Ánh Ly",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
@@ -7140,7 +7356,7 @@
         "gioBatDau": "14h10",
         "gioKetThuc": "14h45",
         "mon": "CDS",
-        "lop": "3/5",
+        "lop": "4/5",
         "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
@@ -7154,19 +7370,19 @@
         "gioBatDau": "15h05",
         "gioKetThuc": "15h40",
         "mon": "CDS",
-        "lop": "3/7",
+        "lop": "4/7",
         "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       }
     ]
   },
   {
-    "maGV": "DN098",
-    "hoTen": "QUÁCH THỊ HỒNG NGỌC",
+    "maGV": "DN102",
+    "hoTen": "VÕ THỊ MINH TRÂN",
     "tongSoTiet": 6,
     "tietDay": [
       {
-        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
+        "truong": "TH Nguyễn Du - Biên Hoà",
         "tiet": "Tiết 1",
         "tietSo": 1,
         "buoi": "Chiều",
@@ -7175,35 +7391,168 @@
         "gioBatDau": "13h45",
         "gioKetThuc": "14h20",
         "mon": "KNS",
-        "lop": "5/14",
-        "ghiChu": null,
+        "lop": "3.7",
+        "ghiChu": "Học CM\nThanh Hương",
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
-        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
+        "truong": "TH Nguyễn Du - Biên Hoà",
         "tiet": "Tiết 2",
         "tietSo": 2,
         "buoi": "Chiều",
         "thu": "THỨ BA",
         "ngay": "29/09/2026",
-        "gioBatDau": "14h25",
-        "gioKetThuc": "15h00",
+        "gioBatDau": "14h30",
+        "gioKetThuc": "15h05",
         "mon": "KNS",
-        "lop": "5/10",
+        "lop": "3.8",
         "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
-        "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
+        "truong": "TH Nguyễn Du - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
         "thu": "THỨ BA",
         "ngay": "29/09/2026",
+        "gioBatDau": "15h30",
+        "gioKetThuc": "16h05",
+        "mon": "KNS",
+        "lop": "3.9",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "13h30",
+        "gioKetThuc": "14h10",
+        "mon": "KNS",
+        "lop": "3/7",
+        "ghiChu": "Học CM Phạm Thị Thảo",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "14h10",
+        "gioKetThuc": "14h45",
+        "mon": "KNS",
+        "lop": "3/8",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "15h05",
+        "gioKetThuc": "15h40",
+        "mon": "KNS",
+        "lop": "3/6",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      }
+    ]
+  },
+  {
+    "maGV": "DN103",
+    "hoTen": "MAI THỊ LÊ HIỀN",
+    "tongSoTiet": 9,
+    "tietDay": [
+      {
+        "truong": "TH Quang Vinh - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "14h55",
+        "gioKetThuc": "15h30",
+        "mon": "STEM",
+        "lop": "2/6",
+        "ghiChu": "Học CM\nYến Vy",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Quang Vinh - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
         "gioBatDau": "15h35",
         "gioKetThuc": "16h10",
+        "mon": "STEM",
+        "lop": "2/1",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Quang Vinh - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ BA",
+        "ngay": "29/09/2026",
+        "gioBatDau": "16h15",
+        "gioKetThuc": "16h50",
+        "mon": "STEM",
+        "lop": "2/5",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 1",
+        "tietSo": 1,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "13h30",
+        "gioKetThuc": "14h10",
+        "mon": "CDS",
+        "lop": "4/4",
+        "ghiChu": "Học CM Huỳnh Thị Thanh Hương",
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 2",
+        "tietSo": 2,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "14h10",
+        "gioKetThuc": "14h45",
         "mon": "KNS",
-        "lop": "5/11",
+        "lop": "4/5",
+        "ghiChu": null,
+        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
+      },
+      {
+        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
+        "tiet": "Tiết 3",
+        "tietSo": 3,
+        "buoi": "Chiều",
+        "thu": "THỨ TƯ",
+        "ngay": "30/09/2026",
+        "gioBatDau": "15h05",
+        "gioKetThuc": "15h40",
+        "mon": "KNS",
+        "lop": "4/7",
         "ghiChu": null,
         "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
@@ -7252,103 +7601,6 @@
     ]
   },
   {
-    "maGV": "DN099",
-    "hoTen": "NGUYỄN NGỌC BẢO NGÂN",
-    "tongSoTiet": 6,
-    "tietDay": [
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "13h45",
-        "gioKetThuc": "14h20",
-        "mon": "KNS",
-        "lop": "3.7",
-        "ghiChu": "Học CM Thanh Hương",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "14h30",
-        "gioKetThuc": "15h05",
-        "mon": "KNS",
-        "lop": "3.8",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Nguyễn Du - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ BA",
-        "ngay": "29/09/2026",
-        "gioBatDau": "15h30",
-        "gioKetThuc": "16h05",
-        "mon": "KNS",
-        "lop": "3.9",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 1",
-        "tietSo": 1,
-        "buoi": "Chiều",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "13h30",
-        "gioKetThuc": "14h10",
-        "mon": "CDS",
-        "lop": "4/1",
-        "ghiChu": "Học CM Ánh Ly",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "14h10",
-        "gioKetThuc": "14h45",
-        "mon": "CDS",
-        "lop": "4/7",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Tam Hòa, CS2 - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ NĂM",
-        "ngay": "01/10/2026",
-        "gioBatDau": "15h05",
-        "gioKetThuc": "15h40",
-        "mon": "CDS",
-        "lop": "4/5",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      }
-    ]
-  },
-  {
-    "maGV": "DN100",
-    "hoTen": "ĐINH THỊ MINH NGUYỆT",
-    "tongSoTiet": 0,
-    "tietDay": []
-  },
-  {
     "maGV": "CTVDN11",
     "hoTen": "VŨ PHẠM NGỌC ANH",
     "tongSoTiet": 0,
@@ -7357,12 +7609,6 @@
   {
     "maGV": "CTVDN03",
     "hoTen": "NGUYỄN ANH TUẤN",
-    "tongSoTiet": 0,
-    "tietDay": []
-  },
-  {
-    "maGV": "CTVDN10",
-    "hoTen": "PHẠM NGỌC QUỲNH NHƯ",
     "tongSoTiet": 0,
     "tietDay": []
   }
