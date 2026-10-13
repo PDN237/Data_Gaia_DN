@@ -167,31 +167,40 @@
       "id": "siSoHienDien",
       "tenTruong": "Sĩ số hiện diện",
       "loai": "text",
-      "batBuoc": false,
-      "khongCanDien": true,
-      "moTa": "Sĩ số học sinh hiện diện (Không cần điền)",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "moTa": "Nhập sĩ số học sinh hiện diện (dạng số/văn bản)",
       "aliases": [
         "sĩ số hiện diện",
         "si so hien dien",
         "sĩ số có mặt",
         "si so co mat",
-        "hiện diện"
+        "hiện diện",
+        "sĩ số",
+        "si so",
+        "số học sinh hiện diện",
+        "số hs hiện diện"
       ]
     },
     {
       "id": "siSoVang",
       "tenTruong": "Sĩ số vắng mặt",
       "loai": "text",
-      "batBuoc": false,
-      "khongCanDien": true,
-      "moTa": "Sĩ số học sinh vắng mặt (Không cần điền)",
+      "batBuoc": true,
+      "khongCanDien": false,
+      "giaTriMacDinh": "0",
+      "moTa": "Nhập sĩ số học sinh vắng mặt (mặc định 0)",
       "aliases": [
         "sĩ số vắng mặt",
         "si so vang mat",
         "sĩ số vắng",
         "si so vang",
         "vắng mặt",
-        "vang mat"
+        "vang mat",
+        "vắng",
+        "vang",
+        "số học sinh vắng",
+        "số hs vắng"
       ]
     },
     {
