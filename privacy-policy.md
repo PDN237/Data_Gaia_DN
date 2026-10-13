@@ -179,7 +179,6 @@ Chính sách Quyền Riêng Tư này được điều chỉnh theo pháp luật 
 
 Nếu bạn có bất kỳ câu hỏi, thắc mắc hay yêu cầu nào liên quan đến Chính sách Quyền Riêng Tư này hoặc cách Gaia AutoFill xử lý dữ liệu, vui lòng liên hệ:
 
-- **Nhà phát triển:** Trung tâm Gaia — Khu vực Đồng Nai
 - **Email:** binbkhoa123@gmail.com
 - **GitHub:** [PDN237/Data_Gaia_DN](https://github.com/PDN237/Data_Gaia_DN)
 
