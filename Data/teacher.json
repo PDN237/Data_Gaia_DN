@@ -137,9 +137,7 @@
   },
   {
     "maGV": "CTVDN11",
-    "hoTen": "VŨ PHẠM NGỌC ANH",
-    "sdt": "0386477001",
-    "ghiChu": "Tháng 9 liên hệ"
+    "hoTen": "VŨ PHẠM NGỌC ANH"
   },
   {
     "maGV": "CTVDN03",
@@ -148,22 +146,5 @@
   {
     "maGV": "CTVDN10",
     "hoTen": "PHẠM NGỌC QUỲNH NHƯ"
-  },
-  {
-    "maGV": "DN101",
-    "hoTen": "HOÀNG NGỌC ANH",
-    "sdt": "0886381480"
-  },
-  {
-    "maGV": "DN102",
-    "hoTen": "VÕ THỊ MINH TRÂN",
-    "sdt": "0365423896"
-  },
-  {
-    "maGV": "DN103",
-    "hoTen": "MAI THỊ LÊ HIỀN",
-    "sdt": "0974.311.357",
-    "ghiChu": "NCD sáng thứ 7",
-    "thoiGian": "17/10/2026-31/5/2027"
   }
 ]
