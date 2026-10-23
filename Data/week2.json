@@ -4720,7 +4720,7 @@
   {
     "maGV": "DN073",
     "hoTen": "PHÙNG THỊ LINH",
-    "tongSoTiet": 29,
+    "tongSoTiet": 27,
     "tietDay": [
       {
         "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
@@ -4962,20 +4962,6 @@
       },
       {
         "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
-        "tiet": "Tiết 2",
-        "tietSo": 2,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "14/10/2026",
-        "gioBatDau": "13h40",
-        "gioKetThuc": "14h20",
-        "mon": "CDS",
-        "lop": "5/19",
-        "ghiChu": "Tuần lẻ",
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
-      },
-      {
-        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
         "tiet": "Tiết 3",
         "tietSo": 3,
         "buoi": "Chiều",
@@ -4987,20 +4973,6 @@
         "lop": "5/4",
         "ghiChu": null,
         "loaiLich": "Lịch chính"
-      },
-      {
-        "truong": "TH Phước Tân, Điểm chính - Biên Hoà",
-        "tiet": "Tiết 3",
-        "tietSo": 3,
-        "buoi": "Chiều",
-        "thu": "THỨ TƯ",
-        "ngay": "14/10/2026",
-        "gioBatDau": "14h20",
-        "gioKetThuc": "14h55",
-        "mon": "CDS",
-        "lop": "5/19",
-        "ghiChu": null,
-        "loaiLich": "Dạy bù, dạy thay, hỗ trợ, chuyên đề"
       },
       {
         "truong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
