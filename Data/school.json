@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SA000615",
+    "tenTruong": "TH Thống Nhất - Biên Hoà",
+    "tenRutGon": "TH Thống Nhất",
+    "khuVuc": "Biên Hoà",
+    "stt": 1,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000616 + SA000597",
+    "tenTruong": "TH Nguyễn Thị Sáu, CS1 - Biên Hoà",
+    "tenRutGon": "TH Nguyễn Thị Sáu, CS1",
+    "khuVuc": "Biên Hoà",
+    "stt": 2,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000616 + SA000598",
+    "tenTruong": "TH Nguyễn Thị Sáu, CS2 - Biên Hoà",
+    "tenRutGon": "TH Nguyễn Thị Sáu, CS2",
+    "khuVuc": "Biên Hoà",
+    "stt": 3,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000616 + SA000599",
+    "tenTruong": "TH Nguyễn Thị Sáu, điểm TH Long Hưng - Biên Hoà",
+    "tenRutGon": "TH Nguyễn Thị Sáu, điểm TH Long Hưng",
+    "khuVuc": "Biên Hoà",
+    "stt": 4,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000612 + SA000555",
+    "tenTruong": "TH Quang Vinh - Biên Hoà",
+    "tenRutGon": "TH Quang Vinh",
+    "khuVuc": "Biên Hoà",
+    "stt": 5,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000612 + SA000555",
+    "tenTruong": "TH Quang Vinh, điểm TH Nguyễn Khắc Hiếu - Biên Hoà",
+    "tenRutGon": "TH Quang Vinh, điểm TH Nguyễn Khắc Hiếu",
+    "khuVuc": "Biên Hoà",
+    "stt": 6,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000592",
+    "tenTruong": "TH Nguyễn Du - Biên Hoà",
+    "tenRutGon": "TH Nguyễn Du",
+    "khuVuc": "Biên Hoà",
+    "stt": 7,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000564 + SA000552 + SA000562 + SA000618",
+    "tenTruong": "TH Phước Tân, Điểm chính - Biên Hoà",
+    "tenRutGon": "TH Phước Tân, Điểm chính",
+    "khuVuc": "Biên Hoà",
+    "stt": 8,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000564 + SA000552 + SA000562 + SA000618",
+    "tenTruong": "TH Phước Tân, điểm TH Phước Tân 2 - Biên Hoà",
+    "tenRutGon": "TH Phước Tân, điểm TH Phước Tân 2",
+    "khuVuc": "Biên Hoà",
+    "stt": 9,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000564 + SA000552 + SA000562 + SA000618",
+    "tenTruong": "TH Phước Tân, điểm TH Tân Mai 2 - Biên Hoà",
+    "tenRutGon": "TH Phước Tân, điểm TH Tân Mai 2",
+    "khuVuc": "Biên Hoà",
+    "stt": 10,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000564 + SA000552 + SA000562 + SA000618",
+    "tenTruong": "TH Phước Tân, điểm TH Tân Cang - Biên Hoà",
+    "tenRutGon": "TH Phước Tân, điểm TH Tân Cang",
+    "khuVuc": "Biên Hoà",
+    "stt": 11,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA001000 + SA000557 +SA000558",
+    "tenTruong": "TH - THCS Hòa Bình, điểm TH Tam Phước 4 - Biên Hoà",
+    "tenRutGon": "TH - THCS Hòa Bình, điểm TH Tam Phước 4",
+    "khuVuc": "Biên Hoà",
+    "stt": 12,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000544 + SA000603",
+    "tenTruong": "TH Phù Đổng, điểm TH Hoàng Hoa Thám - Biên Hoà",
+    "tenRutGon": "TH Phù Đổng, điểm TH Hoàng Hoa Thám",
+    "khuVuc": "Biên Hoà",
+    "stt": 13,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000549 + SA000559",
+    "tenTruong": "TH Bình Đa, điểm chính - Biên Hoà",
+    "tenRutGon": "TH Bình Đa, điểm chính",
+    "khuVuc": "Biên Hoà",
+    "stt": 14,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000549 + SA000559",
+    "tenTruong": "TH Bình Đa, điểm TH Trần Quốc Tuấn - Biên Hoà",
+    "tenRutGon": "TH Bình Đa, điểm TH Trần Quốc Tuấn",
+    "khuVuc": "Biên Hoà",
+    "stt": 15,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA_STT_16",
+    "tenTruong": "TH - THCS Nguyễn Văn Trỗi - Biên Hoà",
+    "tenRutGon": "TH - THCS Nguyễn Văn Trỗi",
+    "khuVuc": "Biên Hoà",
+    "stt": 16,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000551",
+    "tenTruong": "TH Tam Hòa, CS1 - Biên Hoà",
+    "tenRutGon": "TH Tam Hòa, CS1",
+    "khuVuc": "Biên Hoà",
+    "stt": 17,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  },
+  {
+    "id": "SA000551",
+    "tenTruong": "TH Tam Hòa, CS2 - Biên Hoà",
+    "tenRutGon": "TH Tam Hòa, CS2",
+    "khuVuc": "Biên Hoà",
+    "stt": 18,
+    "linkBaoGiang": "",
+    "danhSachLop": []
+  }
+]
